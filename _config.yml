@@ -1,0 +1,11 @@
+
+domain: g14n.info
+
+gems:
+  - jekyll-sitemap
+
+# Custom vars
+
+google-analytics:
+  id: UA-12635045-12
+
